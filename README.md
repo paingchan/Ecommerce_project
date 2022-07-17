@@ -1,6 +1,14 @@
 # Documents 
 E-commerce Website
 
+Front-end E-commerce template By Marazzo HTML5
+
+Admin panel template by Vuexy template
+
+
+
+//----------------------------------- Setup ----------------------------------------------//
+
 Connect To Database 
 
 First Import sql file in phpmyadmin database_file/paingchan_db.sql
