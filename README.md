@@ -14,8 +14,10 @@ Admin panel template by Vuexy template
 
 Connect To Database
 
+First Import sql file in phpmyadmin
+
 ```
-First Import sql file in phpmyadmin database_file/paingchan_db.sql
+database_file/paingchan_db.sql
 ```
 
 Edit database user name and password
