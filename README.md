@@ -11,8 +11,7 @@ Admin panel template by Vuexy template
 
 # Setup
 
-
-Connect To Database
+>Connect To Database
 
 First Import sql file in phpmyadmin
 
@@ -20,7 +19,7 @@ First Import sql file in phpmyadmin
 database_file/paingchan_db.sql
 ```
 
-Edit database user name and password
+>Edit database user name and password
 
 ```bash
 /Ecommerce_project/functions/db.php
@@ -37,7 +36,7 @@ Edit database user name and password
 ?>
 ```
 
-Edit admin panel database user name and password
+>Edit admin panel database user name and password
 
 ```
 /Ecommerce_project/admin/functions/db.php
@@ -54,14 +53,17 @@ Edit admin panel database user name and password
 ?>
 ```
 
-Login Admin panel
+>Login Admin panel
+
 ```
 localhost/Ecommerce_project/admin/
 ```
 
 ![Screenshot 2022-07-17 233830](https://user-images.githubusercontent.com/54994337/179416922-234632e3-0e6a-4ace-abd2-961b99f71220.png)
 
+>**Note**
 
-email : admin@admin.com
-pwd : 123456
+>email : admin@admin.com
+
+>pwd : 123456
 
