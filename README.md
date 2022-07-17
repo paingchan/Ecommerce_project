@@ -55,8 +55,9 @@ Edit admin panel database user name and password
 ```
 
 Login Admin panel
-
+```
 localhost/Ecommerce_project/admin/
+```
 
 ![Screenshot 2022-07-17 233830](https://user-images.githubusercontent.com/54994337/179416922-234632e3-0e6a-4ace-abd2-961b99f71220.png)
 
