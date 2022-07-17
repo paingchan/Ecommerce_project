@@ -9,8 +9,8 @@ Front-end E-commerce template By Marazzo HTML5
 Admin panel template by Vuexy template
 
 
+# Setup
 
-//----------------------------------- Setup ----------------------------------------------//
 
 Connect To Database 
 
@@ -19,7 +19,7 @@ First Import sql file in phpmyadmin database_file/paingchan_db.sql
 Edit database user name and password
 /Ecommerce_project/functions/db.php
 
-```
+```php
 <?php
     $con = mysqli_connect("localhost" , "root" , "8G!(Y/33eOh.3qXj" , "paingchan_db");
     if (!$con)
@@ -33,7 +33,7 @@ Edit database user name and password
 Edit admin panel database user name and password
 /Ecommerce_project/admin/functions/db.php
 
-```
+```php
 <?php
     $con = mysqli_connect("localhost" , "root" , "8G!(Y/33eOh.3qXj" , "paingchan_db");
     if (!$con)
